@@ -2,7 +2,7 @@
 Pertemuan Day 01: Belajar Git &amp; GitHUb
 
 ## Website SaCode
-https://sacode.web.id
+https://sacode.web.id/
 
 ## Instagram SaCode
 https://instagram.com/sacode.official
